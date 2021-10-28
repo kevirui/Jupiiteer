@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy Kevin Agustin Ruiz</h1>
+<h1 align="center">Hola 👋, Soy Kevin</h1>
 <h3 align="center">Un desarrollador de videojuegos de Argentina.</h3>
 
 - 🔭 Estoy trabajando actualmente **en mi mismo, realizando cursos.**
