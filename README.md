@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, Soy Kevin</h1>
-<h3 align="center">Un desarrollador de videojuegos de Argentina.</h3>
+<h3 align="center">Desarrollador de Software de Argentina.</h3>
 
-- 🔭 Estoy trabajando actualmente **en mi mismo, realizando cursos.**
+- 🔭 Estoy trabajando actualmente **en producción audiovisual y en mi mismo, realizando cursos.**
 
-- 🌱 Estoy estudiando **HTML5, CSS3, JScript, MySQL, SCSS, NPM, Angular, Laravel, Todo lo mencionado son cursos.**
+- 🌱 Estoy estudiando **Desarrollo de Software.**
 
 - 👯 Estoy buscando colaborar **en proyectos, así como mods, etc.**
 
