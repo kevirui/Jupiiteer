@@ -1,21 +1,21 @@
 <h1 align="center">Hola 👋, Soy Kevin</h1>
 <h3 align="center">Desarrollador de Software de Argentina.</h3>
 
-- 🔭 Estoy trabajando actualmente **en producción audiovisual y en mi mismo, realizando cursos.**
+- 🔭 **Estoy activamente buscando trabajo**
 
-- 🌱 Estoy estudiando **Desarrollo de Software.**
+- 🌱 Estoy estudiando **Desarrollador y Programador**
 
-- 👯 Estoy buscando colaborar **en proyectos, así como mods, etc.**
+- 👯 Estoy buscando colaborar **en proyectos, así como mods y ayudas**
 
-- 🤝 Estoy buscando ayuda **en la búsqueda laboral.**
+- 🤝 Estoy buscando ayuda **en la búsqueda laboral y sobre como desarrollar en python**
 
 - 👨‍💻 Todos mis proyectos están en mi GitHub. [Jupiiteer](https://github.com/Jupiiteer)
 
-- 💬 Preguntame **Si tienes alguna duda acerca del desarrollo web.**
+- 💬 Preguntame **Si tienes alguna duda acerca del desarrollo web o sobre idiomas (Inglés, Portugués, Francés, Ruso, e Italiano)**
 
-- 📫 Puedes contactarme con **Kevinagustinrockz@gmail.com**
+- 📫 Puedes contactarme mediante email **Kevinagustinrockz@gmail.com**
 
-- ⚡ Habilidades personales **Creo que soy rápido aprendiendo, mas si es una tarea rutinaria, y que soy bueno cuando me dejan tener mi propio ritmo en la tarea.**
+- ⚡ Habilidades personales **Soy rápido aprendiendo, mas si es una tarea rutinaria, y eficiente en tareas laboriosas como también en trabajos a presión**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
