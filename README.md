@@ -1,21 +1,19 @@
 <h1 align="center">Hola 👋, Soy Kevin</h1>
 <h3 align="center">Desarrollador de Software de Argentina.</h3>
 
-- 🔭 **Estoy activamente buscando trabajo**
+- 🔭 **Estoy buscando trabajo activamente para desarrollador, programador trainee o junior. Estoy también interesado en poder colaborar y ayudar en algún proyecto como para enriquecer aún mas mi experiencia profesional**
 
-- 🌱 Estoy estudiando **Desarrollador y Programador**
+- 🌱 Estoy estudiando **Ingenieríe en sistemas - UTN**
 
-- 👯 Estoy buscando colaborar **en proyectos, así como mods y ayudas**
+- 👯 Estoy buscando colaborar **en proyectos, mods, aplicaciones, web dev, devOps.**
 
-- 🤝 Estoy buscando ayuda **en la búsqueda laboral y sobre como desarrollar en python**
+- 🤝 Estoy trabajando actualmente **TESMON S.A** que es una fabrica de armado de equipos de GNC para la industria automotriz, aunque buscando poder conseguir algún trabajo acorde a lo que estudio y me apasiona.
 
 - 👨‍💻 Todos mis proyectos están en mi GitHub. [Jupiiteer](https://github.com/Jupiiteer)
 
-- 💬 Preguntame **Si tienes alguna duda acerca del desarrollo web o sobre idiomas (Inglés, Portugués, Francés, Ruso, e Italiano)**
+- 💬 Preguntame **Si tienes alguna duda acerca del desarrollo web, python o sobre idiomas (Inglés, Portugués, Francés, Ruso, e Italiano)**
 
 - 📫 Puedes contactarme mediante email **Kevinagustinrockz@gmail.com**
-
-- ⚡ Habilidades personales **Soy rápido aprendiendo, mas si es una tarea rutinaria, y eficiente en tareas laboriosas como también en trabajos a presión**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
