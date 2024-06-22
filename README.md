@@ -3,9 +3,9 @@
 
 - 🔭 **Estoy buscando trabajo activamente para desarrollador, programador trainee o junior. Estoy también interesado en poder colaborar y ayudar en algún proyecto como para enriquecer aún mas mi experiencia profesional**
 
-- 🤝 Estoy trabajando actualmente **TESMON S.A** que es una fabrica de armado de equipos de GNC para la industria automotriz, aunque buscando poder conseguir algún trabajo acorde a lo que estudio y me apasiona, aparte estoy en mis tiempos libres desarrollando aplicaciones en ReactJS y cursos para enriquecer mis habilidades.
+- 🤝 Estoy trabajando actualmente en **TESMON S.A** por contrato de 3 meses, es una fabrica de armado de equipos de GNC para la industria automotriz, aunque buscando poder conseguir algún trabajo acorde a lo que estudio y me apasiona, aparte estoy en mis tiempos libres desarrollando aplicaciones en ReactJS y cursos para enriquecer mis habilidades.
 
-- 🌱 Estoy estudiando **Ingenieríe en sistemas - UTN**
+- 🌱 Estoy estudiando **Ingeniería en sistemas - UTN**
 
 - 👯 Estoy buscando colaborar **en proyectos, mods, aplicaciones, web dev, devOps.**
 
